@@ -40,6 +40,6 @@ while loop == 1:
       current(input("q:"),input("t:"))
   elif choice == 4:
       loop = 0
-print "thank u for using calculator.py!"
+print "thank u for using study.py!"
 
 #NOW THE PROGRAM REALLY FINISHES
